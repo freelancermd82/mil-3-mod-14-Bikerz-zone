@@ -1,0 +1,19 @@
+
+.bike-img img{
+    height: 350px;
+}
+.bike img{
+    height: 200px;
+}
+.happy-img{
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+}
+/* .hh{
+    max-height: 50px;
+    overflow: hidden;
+} */
+/* .phh{
+    width: 80px;
+} */
